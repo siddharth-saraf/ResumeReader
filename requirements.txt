@@ -1,5 +1,5 @@
 streamlit
    Pillow
-   pytesseract
    google-generativeai
    python-dotenv
+   pdfplumber
